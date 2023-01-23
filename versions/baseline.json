@@ -1,5 +1,6 @@
 {
   "default": {
-    "wrt-acc": { "baseline": "1.8.12", "port-version": 0 }
+    "wrt-acc": { "baseline": "1.8.12", "port-version": 0 },
+    "wrt-serial": { "baseline": "0.2.0", "port-version": 0 }
   }
 }
